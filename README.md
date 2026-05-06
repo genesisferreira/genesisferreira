@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Gênesis Ferreira Esteves
 
-### 🚀 Desenvolvedor Front-End • Telecom • Automação • IA • SaaS
+### 🚀 Desenvolvedor full stack developer • Telecom • Automação • IA • SaaS
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C600&center=true&vCenter=true&random=false&width=700&lines=Especialista+em+Telecom+e+Tecnologia;Criando+Soluções+com+IA+e+Automação;Next.js+%7C+React+%7C+WordPress+%7C+SaaS;GitHub+%7C+Git+%7C+Vercel+%7C+Supabase" />
 
