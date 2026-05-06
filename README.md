@@ -49,18 +49,18 @@
 
 <div align="center">
 
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Huawei](https://img.shields.io/badge/Huawei-E60012?style=for-the-badge&logo=huawei&logoColor=white)
-![Fiber Optic](https://img.shields.io/badge/Fibra_Óptica-00C853?style=for-the-badge)
-![ISP](https://img.shields.io/badge/Provedores_ISP-FFD700?style=for-the-badge&logo=internetexplorer&logoColor=black)
-![Asterisk](https://img.shields.io/badge/Asterisk-FF9900?style=for-the-badge)
-![FreePBX](https://img.shields.io/badge/FreePBX-009639?style=for-the-badge)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![APIs](https://img.shields.io/badge/API_Integration-0052CC?style=for-the-badge)
-![CRM](https://img.shields.io/badge/CRM_SaaS-7B61FF?style=for-the-badge)
-![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-111111?style=for-the-badge)
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&labelColor=293239&color=293239" />
+<img src="https://img.shields.io/badge/Huawei-E60012?style=for-the-badge&labelColor=E60012&color=E60012" />
+<img src="https://img.shields.io/badge/Fibra%20%C3%93ptica-00C853?style=for-the-badge&labelColor=00C853&color=00C853" />
+<img src="https://img.shields.io/badge/Provedores%20ISP-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" />
+<img src="https://img.shields.io/badge/Asterisk-FF9900?style=for-the-badge&labelColor=FF9900&color=FF9900" />
+<img src="https://img.shields.io/badge/FreePBX-009639?style=for-the-badge&labelColor=009639&color=009639" />
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&labelColor=EA4B71&color=EA4B71" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&labelColor=412991&color=412991" />
+<img src="https://img.shields.io/badge/APIs-0052CC?style=for-the-badge&labelColor=0052CC&color=0052CC" />
+<img src="https://img.shields.io/badge/CRM%20SaaS-7B61FF?style=for-the-badge&labelColor=7B61FF&color=7B61FF" />
+<img src="https://img.shields.io/badge/V0-000000?style=for-the-badge&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/badge/Cursor%20AI-111111?style=for-the-badge&labelColor=111111&color=111111" />
 
 </div>
 
