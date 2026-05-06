@@ -1,68 +1,133 @@
-<h3 align="left">Oi, tudo bem? 👋</h3>
+<div align="center">
 
-<h1 align="left">GÊNESIS FERREIRA ESTEVES</h1>
+# 👋 Olá, eu sou Gênesis Ferreira Esteves
 
-<p align="left">
-Desenvolvedor Front-End | WordPress | React | JavaScript | Telecom | Automação
-</p>
+### 🚀 Desenvolvedor Front-End • Telecom • Automação • IA • SaaS
 
-<hr/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C600&center=true&vCenter=true&random=false&width=700&lines=Especialista+em+Telecom+e+Tecnologia;Criando+Soluções+com+IA+e+Automação;Next.js+%7C+React+%7C+WordPress+%7C+SaaS;GitHub+%7C+Git+%7C+Vercel+%7C+Supabase" />
 
-<h3 align="left">🚀 Tecnologias e ferramentas</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="WooCommerce" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="FileZilla" />
 </div>
 
-<hr/>
+---
 
-<h3 align="center">🌐 Onde me encontrar</h3>
+# 💻 Sobre mim
+
+🚀 Atuo com tecnologia, telecomunicações, desenvolvimento web e automações inteligentes.
+
+📡 Experiência com:
+- Provedores de Internet (ISP)
+- CRM SaaS
+- WordPress
+- React / Next.js
+- Automação com IA
+- Git e GitHub
+- Infraestrutura e redes
+
+🔥 Atualmente focado em:
+- Sistemas SaaS para ISPs
+- IA aplicada a negócios
+- Automações inteligentes
+- Plataformas web modernas
+
+---
+
+# 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/genesis-esteves-1336b754/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ferreiragenesis/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/genesisferreira2010/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,bootstrap,wordpress,woocommerce,git,github,gitlab,vscode,mysql,npm,yarn,figma,aws,supabase,vercel&perline=7" />
+
 </div>
 
-<hr/>
+---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+# 🌎 Redes Sociais
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genesisferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genesisferreira&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+
+<a href="https://www.linkedin.com/in/genesis-esteves-1336b754/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://www.instagram.com/ferreiragenesis/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+
+<a href="https://www.facebook.com/genesisferreira2010/" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" />
+</a>
+
+</div>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=genesisferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesisferreira&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=genesisferreira&theme=tokyonight&hide_border=false" />
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 📡 CRM SaaS para ISP
+Sistema completo para provedores de internet com:
+- CRM
+- Indicações
+- Financeiro
+- Comercial
+- Automações
+- Dashboard inteligente
+
+---
+
+## 🤖 Automações com IA
+Integrações utilizando:
+- N8N
+- WhatsApp
+- IA
+- APIs
+- Fluxos inteligentes
+
+---
+
+## 🌐 Desenvolvimento Web
+Criação de:
+- Sites institucionais
+- Landing Pages
+- Sistemas Web
+- Plataformas SaaS
+- WordPress Profissional
+
+---
+
+<div align="center">
+
+### 🚀 “Transformando tecnologia em soluções reais.”
+
 </div>
