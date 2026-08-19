@@ -116,19 +116,30 @@
   alt="Detalhes do perfil GitHub"
 />
 
-<br>
+<br><br>
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 <img
   src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/genesisferreira/profile/stats/stats.svg"
-  width="48%"
+  width="100%"
   alt="Estatísticas GitHub"
 />
 
+</td>
+<td width="50%" align="center">
+
 <img
   src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/genesisferreira/profile/stats/most-commit-language.svg"
-  width="48%"
+  width="100%"
   alt="Linguagens mais utilizadas por commits"
 />
+
+</td>
+</tr>
+</table>
 
 </div>
 
