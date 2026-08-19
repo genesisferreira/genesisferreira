@@ -111,8 +111,36 @@
 <div align="center">
 
 <img
+  src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/genesisferreira/profile/stats/profile-details.svg"
+  width="100%"
+  alt="Detalhes do perfil GitHub"
+/>
+
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/genesisferreira/profile/stats/stats.svg"
+  width="48%"
+  alt="Estatísticas GitHub"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/genesisferreira/profile/stats/most-commit-language.svg"
+  width="48%"
+  alt="Linguagens mais utilizadas por commits"
+/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img
   src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/genesisferreira/profile/streak.svg"
-  alt="GitHub Streak"
+  alt="Sequência de contribuições no GitHub"
 />
 
 </div>
@@ -125,6 +153,7 @@
 
 <img
   src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/genesisferreira/profile/trophy.svg"
+  width="100%"
   alt="Troféus GitHub"
 />
 
