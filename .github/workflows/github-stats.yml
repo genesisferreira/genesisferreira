@@ -1,0 +1,41 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "15 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: genesisferreira
+
+      - name: Copy generated cards
+        run: |
+          mkdir -p profile/stats
+          cp profile-summary-card-output/tokyonight/0-profile-details.svg profile/stats/profile-details.svg
+          cp profile-summary-card-output/tokyonight/1-repos-per-language.svg profile/stats/repos-per-language.svg
+          cp profile-summary-card-output/tokyonight/2-most-commit-language.svg profile/stats/most-commit-language.svg
+          cp profile-summary-card-output/tokyonight/3-stats.svg profile/stats/stats.svg
+          cp profile-summary-card-output/tokyonight/4-productive-time.svg profile/stats/productive-time.svg
+
+      - name: Commit generated stats
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile/stats
+          git diff --staged --quiet || git commit -m "chore: update GitHub stats"
+          git push
