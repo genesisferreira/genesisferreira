@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer • SaaS • IA • Automação • Telecom Tech
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C600&center=true&vCenter=true&random=false&width=850&lines=Desenvolvendo+soluções+reais+com+IA+e+automação;SaaS+%7C+Telecom+%7C+ISP+%7C+Integrações;Next.js+%7C+React+%7C+Supabase+%7C+APIs;Automações+inteligentes+para+negócios;CRM+SaaS+%7C+n8n+%7C+OpenAI+%7C+WhatsApp+API"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C600&center=true&vCenter=true&random=false&width=850&lines=Desenvolvendo+soluções+reais+com+IA+e+automação;SaaS+%7C+Telecom+%7C+ISP+%7C+Integrações;Next.js+%7C+React+%7C+TypeScript+%7C+.NET;IA+%7C+APIs+%7C+Automações+%7C+Telecom;Transformando+problemas+reais+em+software"
   alt="Typing SVG"
 />
 
@@ -15,38 +15,103 @@
 
 # 💻 Sobre mim
 
-🚀 Atuo com tecnologia, telecomunicações, desenvolvimento web e automações inteligentes.
+🚀 Atuo com **tecnologia, telecomunicações, desenvolvimento de software e automações inteligentes**.
 
-💡 Desenvolvendo soluções reais para provedores de internet, automações comerciais, sistemas SaaS e integrações inteligentes utilizando IA.
+💡 Desenvolvo soluções voltadas para problemas reais, combinando **software, inteligência artificial, telecom, APIs e automação de processos**.
 
-### 📡 Experiência com:
+Minha experiência une conhecimento operacional de telecomunicações com desenvolvimento de plataformas e ferramentas digitais.
 
+### 🎯 Principais áreas de atuação
+
+- Desenvolvimento Full Stack
+- Plataformas SaaS
 - Provedores de Internet (ISP)
-- CRM SaaS
-- React / Next.js
-- WordPress & WooCommerce
-- Integrações via API
-- Automação com IA
-- Git e GitHub
+- Inteligência Artificial aplicada a negócios
+- Automação de processos
+- APIs e integrações
+- Telecomunicações
 - Infraestrutura e redes
 
-### 🔥 Atualmente focado em:
+### 🔥 Atualmente focado em
 
 - Sistemas SaaS para ISPs
-- IA aplicada a negócios
+- Plataformas corporativas modulares
+- IA aplicada a operações e negócios
+- Ferramentas para telecomunicações
 - Automações inteligentes
-- Plataformas web modernas
-- Integrações e APIs
-- Soluções comerciais automatizadas
+- Integrações entre sistemas
 
-### 🧠 Workflow moderno utilizando IA:
+---
 
-- Cursor AI
-- V0
-- Supabase
-- GitHub
-- APIs
-- Automação inteligente
+# 🚀 Projetos em Destaque
+
+## 🌐 Omnia Platform
+
+Plataforma SaaS modular desenvolvida para criação e operação de múltiplos produtos, empresas e ambientes digitais.
+
+**Tecnologias e arquitetura:**
+
+`Next.js` `React` `TypeScript` `Payload CMS` `PostgreSQL` `Redis` `Docker`
+
+**Principais características:**
+
+- Arquitetura modular
+- Multisite
+- Multi-tenant
+- CMS Headless
+- Aplicações SSR
+- APIs e integrações
+- Estrutura preparada para automações
+- Integração com recursos de Inteligência Artificial
+
+👉 **[Acessar Omnia Platform](https://github.com/genesisferreira/omnia-platform)**
+
+---
+
+## 🧠 Tanto Control Center
+
+Plataforma desktop modular criada para centralizar **ferramentas, integrações, automações e recursos inteligentes** em um único ambiente.
+
+**Tecnologias e conceitos:**
+
+`.NET` `TypeScript` `Turborepo` `APIs` `IA` `Automação`
+
+**Arquitetura preparada para:**
+
+- Inteligência Artificial
+- Automação de processos
+- Telecom
+- CRM
+- ERP
+- Dashboards
+- Widgets
+- Integrações corporativas
+- Ferramentas operacionais
+
+👉 **[Acessar Tanto Control Center](https://github.com/genesisferreira/tanto-control-center)**
+
+---
+
+## 📡 Tanto ONT Manager
+
+Aplicação técnica desenvolvida para **identificação, diagnóstico e gerenciamento de ONTs**, inicialmente voltada para equipamentos ZTE.
+
+**Tecnologias:**
+
+`.NET 8` `WPF` `MVVM` `WebView2` `HTTP` `Telecom`
+
+**Recursos desenvolvidos:**
+
+- Identificação automática de equipamentos
+- Comunicação HTTP com ONTs
+- Autenticação
+- Leitura de informações do dispositivo
+- Diagnóstico técnico
+- Detecção de firmware
+- Análise de interfaces WAN/PON
+- Estrutura preparada para múltiplos modelos
+
+👉 **[Acessar Tanto ONT Manager](https://github.com/genesisferreira/tanto-ont-manager)**
 
 ---
 
@@ -86,26 +151,6 @@
 
 ---
 
-# 🌎 Redes Sociais
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/genesis-esteves-1336b754/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
-</a>
-
-<a href="https://www.instagram.com/ferreiragenesis/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
-</a>
-
-<a href="https://www.facebook.com/genesisferreira2010/">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="Facebook" />
-</a>
-
-</div>
-
----
-
 # 📊 Estatísticas GitHub
 
 <div align="center">
@@ -120,6 +165,7 @@
 
 <table>
 <tr>
+
 <td width="50%" align="center">
 
 <img
@@ -129,6 +175,7 @@
 />
 
 </td>
+
 <td width="50%" align="center">
 
 <img
@@ -138,6 +185,7 @@
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -185,54 +233,34 @@
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🌎 Redes Sociais
 
-## 📡 CRM SaaS para ISP
+<div align="center">
 
-Sistema completo para provedores de internet com:
+<a href="https://www.linkedin.com/in/genesis-esteves-1336b754/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+</a>
 
-- CRM Comercial
-- Gestão de Leads
-- Programa de Indicações
-- Painel Financeiro
-- Dashboard Inteligente
-- Integrações e APIs
-- Automação de processos
-- Gestão operacional
+<a href="https://www.instagram.com/ferreiragenesis/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+</a>
 
----
+<a href="https://www.facebook.com/genesisferreira2010/">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="Facebook" />
+</a>
 
-## 🤖 Automações com IA
-
-Integrações e fluxos inteligentes utilizando:
-
-- n8n
-- WhatsApp API
-- OpenAI
-- APIs REST
-- Webhooks
-- Fluxos automatizados
-- Automação comercial
-- IA aplicada a negócios
-
----
-
-## 🌐 Desenvolvimento Web
-
-Criação de:
-
-- Plataformas SaaS
-- Sistemas Web
-- Landing Pages
-- Sites institucionais
-- WordPress & WooCommerce
-- Interfaces modernas
-- Integrações via API
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Transformando ideias em plataformas reais com IA e automação.
+### 🚀 Transformando problemas reais em software, automação e inteligência.
+
+**SaaS • IA • Telecom • Automação • APIs • Full Stack**
+
+<br>
+
+⭐ **Construindo tecnologia que sai do código e resolve problemas do mundo real.**
 
 </div>
