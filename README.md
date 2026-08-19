@@ -111,8 +111,21 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=genesisferreira&theme=tokyonight&hide_border=true&locale=pt_BR"
+  src="https://raw.githubusercontent.com/genesisferreira/genesisferreira/genesisferreira/profile/streak.svg"
   alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 🏆 Troféus GitHub
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=genesisferreira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"
+  alt="Troféus GitHub"
 />
 
 </div>
